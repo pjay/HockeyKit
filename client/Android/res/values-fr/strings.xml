@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hockey</string>
+
+    <string name="crash_dialog_title">Données de plantage</string>
+    <string name="crash_dialog_message">L\'app a trouvé des informations concernant des plantages antérieurs. Voulez-vous envoyer ces données au développeur ?</string>
+    <string name="crash_dialog_negative_button">Fermer</string>
+    <string name="crash_dialog_positive_button">Envoyer</string>
+
+    <string name="download_failed_dialog_title">Le téléchargement a échoué</string>
+    <string name="download_failed_dialog_message">La mise à jour ne peut pas être téléchargée. Voulez-vous réessayer ?</string>
+    <string name="download_failed_dialog_negative_button">Annuler</string>
+    <string name="download_failed_dialog_positive_button">Réessayer</string>
+
+    <string name="update_dialog_title">Mise à jour disponible</string>
+    <string name="update_dialog_message">Afficher les informations à propos de la mise à jour ?</string>
+    <string name="update_dialog_negative_button">Fermer</string>
+    <string name="update_dialog_positive_button">Afficher</string>
+</resources>
